@@ -24,10 +24,12 @@
 
 #map {
 	margin: 0 auto;
-    height: 600px;
+    min-height: 500px;
     max-width: 900px;
     padding: 20px;
+
 }
+
 
 button {
 	display: inline-block;

@@ -1,0 +1,692 @@
+[
+ {
+   "Location": "UCPD",
+   "lat": 37.86941,
+   "lon": -122.25851
+ },
+ {
+   "Location": "Cafe Milano",
+   "lat": 37.86865,
+   "lon": -122.25854
+ },
+ {
+   "Location": "Subway",
+   "lat": 37.86854,
+   "lon": -122.2593
+ },
+ {
+   "Location": "Walgreens",
+   "lat": 37.86837,
+   "lon": -122.25927
+ },
+ {
+   "Location": "Wells Fargo",
+   "lat": 37.86842,
+   "lon": -122.25994
+ },
+ {
+   "Location": "Boalt Law School",
+   "lat": 37.86948,
+   "lon": -122.25413
+ },
+ {
+   "Location": "Musical Offering",
+   "lat": 37.86837,
+   "lon": -122.26069
+ },
+ {
+   "Location": "RSF",
+   "lat": 37.86895,
+   "lon": -122.26217
+ },
+ {
+   "Location": "Tang Center",
+   "lat": 37.86781,
+   "lon": -122.26447
+ },
+ {
+   "Location": "Haas Pavilion",
+   "lat": 37.86945,
+   "lon": -122.26179
+ },
+ {
+   "Location": "Haas Pavilion",
+   "lat": 37.86944,
+   "lon": -122.26207
+ },
+ {
+   "Location": "Alumni House",
+   "lat": 37.86972,
+   "lon": -122.2612
+ },
+ {
+   "Location": "Upper Sproul",
+   "lat": 37.86975,
+   "lon": -122.2593
+ },
+ {
+   "Location": "Golden Bear Cafe",
+   "lat": 37.86972,
+   "lon": -122.25941
+ },
+ {
+   "Location": "Sather Gate",
+   "lat": 37.8701,
+   "lon": -122.25935
+ },
+ {
+   "Location": "Dwinelle Hall",
+   "lat": 37.8708,
+   "lon": -122.26052
+ },
+ {
+   "Location": "Qualcomm Cafe",
+   "lat": 37.87469,
+   "lon": -122.25877
+ },
+ {
+   "Location": "West Wheeler",
+   "lat": 37.87133,
+   "lon": -122.25955
+ },
+ {
+   "Location": "Doe Library",
+   "lat": 37.87187,
+   "lon": -122.25932
+ },
+ {
+   "Location": "Moffit Library",
+   "lat": 37.87241,
+   "lon": -122.26062
+ },
+ {
+   "Location": "California Hall",
+   "lat": 37.87195,
+   "lon": -122.26034
+ },
+ {
+   "Location": "Oxford / Center",
+   "lat": 37.87057,
+   "lon": -122.26574
+ },
+ {
+   "Location": "West Gate",
+   "lat": 37.87257,
+   "lon": -122.26587
+ },
+ {
+   "Location": "VLSB",
+   "lat": 37.87118,
+   "lon": -122.26208
+ },
+ {
+   "Location": "Pat Brown's",
+   "lat": 37.87332,
+   "lon": -122.26487
+ },
+ {
+   "Location": "The Daily Californian",
+   "lat": 37.87508,
+   "lon": -122.26062
+ },
+ {
+   "Location": "Daily Californian Office",
+   "lat": 37.87516,
+   "lon": -122.2605
+ },
+ {
+   "Location": "Stanley",
+   "lat": 37.87391,
+   "lon": -122.25649
+ },
+ {
+   "Location": "Evans Hall Wire Rack",
+   "lat": 37.87341,
+   "lon": -122.2581
+ },
+ {
+   "Location": "Evans Hall Bus Stop",
+   "lat": 37.8734,
+   "lon": -122.25741
+ },
+ {
+   "Location": "Pimentel Hall",
+   "lat": 37.87337,
+   "lon": -122.25608
+ },
+ {
+   "Location": "East Gate",
+   "lat": 37.8737,
+   "lon": -122.25541
+ },
+ {
+   "Location": "Haas Piedmont",
+   "lat": 37.87221,
+   "lon": -122.25343
+ },
+ {
+   "Location": "Haas Campus",
+   "lat": 37.87194,
+   "lon": -122.25374
+ },
+ {
+   "Location": "Faculty Club",
+   "lat": 37.87169,
+   "lon": -122.25595
+ },
+ {
+   "Location": "Lewis Underpass",
+   "lat": 37.87308,
+   "lon": -122.25521
+ },
+ {
+   "Location": "Ramona's in Wurster",
+   "lat": 37.87041,
+   "lon": -122.2549
+ },
+ {
+   "Location": "Kroeber Bus Stop",
+   "lat": 37.86928,
+   "lon": -122.25504
+ },
+ {
+   "Location": "Strada",
+   "lat": 37.86911,
+   "lon": -122.25485
+ },
+ {
+   "Location": "Cafe Strada",
+   "lat": 37.86917,
+   "lon": -122.2547
+ },
+ {
+   "Location": "Hearst Gym Bus Stop",
+   "lat": 37.86907,
+   "lon": -122.25691
+ },
+ {
+   "Location": "Bear's Lair",
+   "lat": 37.86899,
+   "lon": -122.25993
+ },
+ {
+   "Location": "Naia",
+   "lat": 37.86921,
+   "lon": -122.26007
+ },
+ {
+   "Location": "Women's Faculty Club",
+   "lat": 37.87203,
+   "lon": -122.2549
+ },
+ {
+   "Location": "S. Student Store",
+   "lat": 37.86893,
+   "lon": -122.25971
+ },
+ {
+   "Location": "Borden Family Terrace Cafe Zeb",
+   "lat": 37.86981,
+   "lon": -122.25339
+ },
+ {
+   "Location": "Evans Poster Rack",
+   "lat": 37.87373,
+   "lon": -122.25759
+ },
+ {
+   "Location": "University Hall",
+   "lat": 37.87173,
+   "lon": -122.26669
+ },
+ {
+   "Location": "Berkeley Library",
+   "lat": 37.86798,
+   "lon": -122.2685
+ },
+ {
+   "Location": "YMCA",
+   "lat": 37.86934,
+   "lon": -122.26968
+ },
+ {
+   "Location": "Court House",
+   "lat": 37.86981,
+   "lon": -122.27329
+ },
+ {
+   "Location": "Citi Bank",
+   "lat": 37.87192,
+   "lon": -122.26875
+ },
+ {
+   "Location": "Great China",
+   "lat": 37.86767,
+   "lon": -122.26614
+ },
+ {
+   "Location": "Starbucks",
+   "lat": 37.87039,
+   "lon": -122.26615
+ },
+ {
+   "Location": "Oxford/University Bus Stop",
+   "lat": 37.87243,
+   "lon": -122.26637
+ },
+ {
+   "Location": "Yali's Cafe",
+   "lat": 37.87351,
+   "lon": -122.26641
+ },
+ {
+   "Location": "Berkeley City Club",
+   "lat": 37.86748,
+   "lon": -122.26281
+ },
+ {
+   "Location": "Unit 3",
+   "lat": 37.86744,
+   "lon": -122.26037
+ },
+ {
+   "Location": "Norton Hall Unit 3",
+   "lat": 37.86723,
+   "lon": -122.25986
+ },
+ {
+   "Location": "Sather Lane",
+   "lat": 37.86777,
+   "lon": -122.25999
+ },
+ {
+   "Location": "C.R.E.A.M.",
+   "lat": 37.86712,
+   "lon": -122.25867
+ },
+ {
+   "Location": "Dwight / Shattuck",
+   "lat": 37.86403,
+   "lon": -122.26753
+ },
+ {
+   "Location": "Pepe's Pizza",
+   "lat": 37.86777,
+   "lon": -122.25815
+ },
+ {
+   "Location": "Mandarin House",
+   "lat": 37.86811,
+   "lon": -122.25813
+ },
+ {
+   "Location": "Henry's",
+   "lat": 37.86795,
+   "lon": -122.25646
+ },
+ {
+   "Location": "Across from Hotel Durant",
+   "lat": 37.86817,
+   "lon": -122.25656
+ },
+ {
+   "Location": "Unit 1",
+   "lat": 37.86782,
+   "lon": -122.25518
+ },
+ {
+   "Location": "Crossroads",
+   "lat": 37.86702,
+   "lon": -122.25618
+ },
+ {
+   "Location": "Channing / Bowditch Kiosk",
+   "lat": 37.86715,
+   "lon": -122.25646
+ },
+ {
+   "Location": "Allston Place",
+   "lat": 37.86977,
+   "lon": -122.26649
+ },
+ {
+   "Location": "Stadium Place",
+   "lat": 37.86736,
+   "lon": -122.26602
+ },
+ {
+   "Location": "La Quinta Inn",
+   "lat": 37.86814,
+   "lon": -122.29574
+ },
+ {
+   "Location": "Berkeley Lab Guest House",
+   "lat": 37.87594,
+   "lon": -122.25005
+ },
+ {
+   "Location": "Campus Shared Services",
+   "lat": 37.87338,
+   "lon": -122.30214
+ },
+ {
+   "Location": "Martinez Dorms",
+   "lat": 37.86688,
+   "lon": -122.25783
+ },
+ {
+   "Location": "Staples",
+   "lat": 37.86585,
+   "lon": -122.2678
+ },
+ {
+   "Location": "Berkeley Amtrack",
+   "lat": 37.86751,
+   "lon": -122.30081
+ },
+ {
+   "Location": "Telegraph Commons",
+   "lat": 37.86678,
+   "lon": -122.25912
+ },
+ {
+   "Location": "Glenn Building",
+   "lat": 37.86437,
+   "lon": -122.25876
+ },
+ {
+   "Location": "Rasputin",
+   "lat": 37.8668,
+   "lon": -122.25867
+ },
+ {
+   "Location": "Smart Alec's",
+   "lat": 37.86767,
+   "lon": -122.25883
+ },
+ {
+   "Location": "Au Coquelet",
+   "lat": 37.87163,
+   "lon": -122.27051
+ },
+ {
+   "Location": "Bobby G's",
+   "lat": 37.87186,
+   "lon": -122.26903
+ },
+ {
+   "Location": "Tea Press",
+   "lat": 37.86878,
+   "lon": -122.25794
+ },
+ {
+   "Location": "Pegasus",
+   "lat": 37.86653,
+   "lon": -122.26744
+ },
+ {
+   "Location": "Royal Ground Coffee",
+   "lat": 37.8657,
+   "lon": -122.26725
+ },
+ {
+   "Location": "Burgermeister",
+   "lat": 37.86869,
+   "lon": -122.26747
+ },
+ {
+   "Location": "The Berk Southside",
+   "lat": 37.86877,
+   "lon": -122.25427
+ },
+ {
+   "Location": "Fedex Shattuck/Allston",
+   "lat": 37.86931,
+   "lon": -122.26767
+ },
+ {
+   "Location": "Jupiter",
+   "lat": 37.8697,
+   "lon": -122.26766
+ },
+ {
+   "Location": "Biryani",
+   "lat": 37.87195,
+   "lon": -122.26768
+ },
+ {
+   "Location": "Crepes A Go Go",
+   "lat": 37.87244,
+   "lon": -122.26751
+ },
+ {
+   "Location": "Unit 3 Dining Hall",
+   "lat": 37.86718,
+   "lon": -122.26041
+ },
+ {
+   "Location": "Tolman UnderpassÊ",
+   "lat": 37.87445,
+   "lon": -122.26393
+ },
+ {
+   "Location": "North Gate Bus Stop",
+   "lat": 37.87514,
+   "lon": -122.26006
+ },
+ {
+   "Location": "Journalism School",
+   "lat": 37.87488,
+   "lon": -122.25975
+ },
+ {
+   "Location": "La Val's",
+   "lat": 37.87546,
+   "lon": -122.2605
+ },
+ {
+   "Location": "Northside Cafe",
+   "lat": 37.87528,
+   "lon": -122.26042
+ },
+ {
+   "Location": "Bongo Burger",
+   "lat": 37.8756,
+   "lon": -122.26005
+ },
+ {
+   "Location": "Brewed Awakening",
+   "lat": 37.87583,
+   "lon": -122.26014
+ },
+ {
+   "Location": "Etcheverry Hall",
+   "lat": 37.87556,
+   "lon": -122.25911
+ },
+ {
+   "Location": "Soda Hall #1",
+   "lat": 37.87554,
+   "lon": -122.25873
+ },
+ {
+   "Location": "Soda Hall #2",
+   "lat": 37.87573,
+   "lon": -122.25883
+ },
+ {
+   "Location": "Cory Hall Bus Stop",
+   "lat": 37.87529,
+   "lon": -122.25797
+ },
+ {
+   "Location": "Foothill Student Housing",
+   "lat": 37.87538,
+   "lon": -122.25552
+ },
+ {
+   "Location": "Poulet Rest (Shattuck/Virginia)",
+   "lat": 37.87658,
+   "lon": -122.2687
+ },
+ {
+   "Location": "Peet's (Solano)",
+   "lat": 37.89156,
+   "lon": -122.27924
+ },
+ {
+   "Location": "Starbucks (Solano)",
+   "lat": 37.89148,
+   "lon": -122.28004
+ },
+ {
+   "Location": "Shattuck/Vine SW",
+   "lat": 37.88016,
+   "lon": -122.26943
+ },
+ {
+   "Location": "Triple Rock",
+   "lat": 37.8734,
+   "lon": -122.26886
+ },
+ {
+   "Location": "Wells Fargo",
+   "lat": 37.86923,
+   "lon": -122.29245
+ },
+ {
+   "Location": "Mechanics Bank (Bette's Diner)",
+   "lat": 37.86909,
+   "lon": -122.30004
+ },
+ {
+   "Location": "Peet's (4th Street)",
+   "lat": 37.87025,
+   "lon": -122.30104
+ },
+ {
+   "Location": "Unit 1 Christian",
+   "lat": 37.86809,
+   "lon": -122.25504
+ },
+ {
+   "Location": "Unit 1 Cheney",
+   "lat": 37.86808,
+   "lon": -122.25561
+ },
+ {
+   "Location": "Unit 1 Deutsch",
+   "lat": 37.86765,
+   "lon": -122.25571
+ },
+ {
+   "Location": "Foothill Dining Hall",
+   "lat": 37.8754,
+   "lon": -122.25581
+ },
+ {
+   "Location": "Anne's Kitchen",
+   "lat": 37.86525,
+   "lon": -122.25861
+ },
+ {
+   "Location": "Caffe Mediterraneum",
+   "lat": 37.86559,
+   "lon": -122.25835
+ },
+ {
+   "Location": "I-House",
+   "lat": 37.86964,
+   "lon": -122.25182
+ },
+ {
+   "Location": "I - House across the street",
+   "lat": 37.86952,
+   "lon": -122.25239
+ },
+ {
+   "Location": "BSC Rochdale",
+   "lat": 37.86573,
+   "lon": -122.25982
+ },
+ {
+   "Location": "BSC Fenwick",
+   "lat": 37.86497,
+   "lon": -122.26005
+ },
+ {
+   "Location": "Clark Kerr Dining Hall",
+   "lat": 37.86374,
+   "lon": -122.24812
+ },
+ {
+   "Location": "Redwood Gardens",
+   "lat": 37.86331,
+   "lon": -122.24717
+ },
+ {
+   "Location": "Peet's (Domingo)",
+   "lat": 37.85871,
+   "lon": -122.24414
+ },
+ {
+   "Location": "Star Grocery",
+   "lat": 37.85484,
+   "lon": -122.24834
+ },
+ {
+   "Location": "Post Office",
+   "lat": 37.85594,
+   "lon": -122.25251
+ },
+ {
+   "Location": "Gordo's Taqueria",
+   "lat": 37.85642,
+   "lon": -122.25282
+ },
+ {
+   "Location": "Cafe Roma",
+   "lat": 37.85686,
+   "lon": -122.25326
+ },
+ {
+   "Location": "Le Med",
+   "lat": 37.8576,
+   "lon": -122.25333
+ },
+ {
+   "Location": "C &C Cleaner",
+   "lat": 37.87692,
+   "lon": -122.25935
+ },
+ {
+   "Location": "Rockridge Bart",
+   "lat": 37.84465,
+   "lon": -122.25153
+ },
+ {
+   "Location": "Ashby Bart",
+   "lat": 37.85289,
+   "lon": -122.26993
+ },
+ {
+   "Location": "Cal Suds",
+   "lat": 37.8617,
+   "lon": -122.2533
+ },
+ {
+   "Location": "Rose Garden Inn",
+   "lat": 37.85996,
+   "lon": -122.25956
+ },
+ {
+   "Location": "Bing Wong Wash",
+   "lat": 37.86316,
+   "lon": -122.25882
+ },
+ {
+   "Location": "Walgreens",
+   "lat": 37.85823,
+   "lon": -122.26709
+ }
+]

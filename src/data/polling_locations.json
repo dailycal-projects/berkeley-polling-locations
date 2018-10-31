@@ -1,0 +1,513 @@
+[
+  {
+    "locname": "ST AMBROSE CHURCH RYAN HALL",
+    "address": "1145 GILMAN ST",
+    "accessibility": "",
+    "lat": 37.881136,
+    "lon": -122.293984
+  },
+  {
+    "locname": "ZAYTUNA COLLEGE",
+    "address": "2770 MARIN AVE BE SANCTUARY RM",
+    "accessibility": "",
+    "lat": 37.897626,
+    "lon": 122.259835
+  },
+  {
+    "locname": "BERKELEY FIRE STATION 7",
+    "address": "3000 SHASTA RD",
+    "accessibility": "",
+    "lat": 37.89094,
+    "lon": -122.251425
+  },
+  {
+    "locname": "LAWRENCE HALL OF SCIENCE",
+    "address": "1 CENTENNIAL DR",
+    "accessibility": "TRUE",
+    "lat": 37.879371,
+    "lon": -122.246741
+  },
+  {
+    "locname": "CONGREGATION BETH EL",
+    "address": "1301 OXFORD ST",
+    "accessibility": "",
+    "lat": 37.883942,
+    "lon": -122.266757
+  },
+  {
+    "locname": "SHEPHERD OF THE HILLS LUTH CH",
+    "address": "401 GRIZZLY PEAK BLVD BE SANCTUARY",
+    "accessibility": "",
+    "lat": 37.903948,
+    "lon": -122.269207
+  },
+  {
+    "locname": "EPWORTH UNITED METH CH FELLOWSHIP HALL",
+    "address": "1953 HOPKINS ST",
+    "accessibility": "",
+    "lat": 37.887423,
+    "lon": -122.273653
+  },
+  {
+    "locname": "SECOND CH CHRIST SCIENTIST FOYER SIDE A",
+    "address": "1521 SPRUCE ST",
+    "accessibility": "TRUE",
+    "lat": 37.879982,
+    "lon": -122.265632
+  },
+  {
+    "locname": "MLK STUDENT UNION 3RD FLOOR",
+    "address": "2455 BANCROFT WAY",
+    "accessibility": "TRUE",
+    "lat": 37.868592,
+    "lon": -122.260519
+  },
+  {
+    "locname": "SECOND CH CHRIST SCIENTIST FOYER SIDE B",
+    "address": "1521 SPRUCE ST",
+    "accessibility": "TRUE",
+    "lat": 37.879949,
+    "lon": -122.265629
+  },
+  {
+    "locname": "ALL SOULS EPISCOPAL PARISH CHURCH LOBBY",
+    "address": "2220 CEDAR ST",
+    "accessibility": "",
+    "lat": 37.878646,
+    "lon": -122.265987
+  },
+  {
+    "locname": "BERKELEY FRIENDS MEETING CH COMM RM",
+    "address": "2151 VINE ST",
+    "accessibility": "",
+    "lat": 37.880616,
+    "lon": -122.267895
+  },
+  {
+    "locname": "REDWOOD GARDENS COMMUNITY RM",
+    "address": "2951 DERBY ST",
+    "accessibility": "",
+    "lat": 37.863126,
+    "lon": -122.246963
+  },
+  {
+    "locname": "NEWMAN HALL GALLERY/LIBRARY",
+    "address": "2700 DWIGHT WAY",
+    "accessibility": "",
+    "lat": 37.865507,
+    "lon": -122.253602
+  },
+  {
+    "locname": "UNIVERSITY LUTHERAN CHAPEL PARISH HALL",
+    "address": "2425 COLLEGE AVE",
+    "accessibility": "",
+    "lat": 37.866766,
+    "lon": -122.253797
+  },
+  {
+    "locname": "UC RESIDENCE HALL UNIT I REC RM",
+    "address": "2650 DURANT AVE",
+    "accessibility": "TRUE",
+    "lat": 37.868161,
+    "lon": 122.255019
+  },
+  {
+    "locname": "BERKELEY MASJID STAFF ROOM/FOYER",
+    "address": "2716 DERBY STREET",
+    "accessibility": "",
+    "lat": 37.861975,
+    "lon": -122.252671
+  },
+  {
+    "locname": "JOHN MUIR ELEMENTARY SCHOOL AUDITORIUM",
+    "address": "2955 CLAREMONT AVE",
+    "accessibility": "",
+    "lat": 37.857493,
+    "lon": -122.245009
+  },
+  {
+    "locname": "GARAGE",
+    "address": "186 HILLCREST RD",
+    "accessibility": "",
+    "lat": 37.852563,
+    "lon": -122.243997
+  },
+  {
+    "locname": "BERKELEY FIRE STATION 3",
+    "address": "2710 RUSSELL ST",
+    "accessibility": "",
+    "lat": 37.858331,
+    "lon": -122.25261
+  },
+  {
+    "locname": "REDWOOD GARDENS 1ST FLR NORTH SIDE LOBBY",
+    "address": "2951 DERBY ST",
+    "accessibility": "",
+    "lat": 37.863109,
+    "lon": -122.246942
+  },
+  {
+    "locname": "CLAREMONT BRANCH LIBRARY",
+    "address": "2940 BENVENUE AVE",
+    "accessibility": "",
+    "lat": 37.856678,
+    "lon": -122.254344
+  },
+  {
+    "locname": "WILLARD JUNIOR HIGH AUDITORIUM",
+    "address": "2425 STUART ST",
+    "accessibility": "",
+    "lat": 37.859938,
+    "lon": -122.25857
+  },
+  {
+    "locname": "CHRIST CH EAST BAY BOBCOCK RM",
+    "address": "2138 CEDAR ST",
+    "accessibility": "",
+    "lat": 37.878495,
+    "lon": -122.267471
+  },
+  {
+    "locname": "AMERICAN BAPTIST SEMINARY OF THE WEST",
+    "address": "2509 HILLEGASS AVE",
+    "accessibility": "",
+    "lat": 37.865087,
+    "lon": -122.256052
+  },
+  {
+    "locname": "UCSF BENIOFF CHILDRENS GARAGE",
+    "address": "2920 TELEGRAPH AVE",
+    "accessibility": "",
+    "lat": 37.856945,
+    "lon": -122.260027
+  },
+  {
+    "locname": "CANCER RESEARCH CENTER MPR",
+    "address": "2908 ELLSWORTH ST",
+    "accessibility": "",
+    "lat": 37.856973,
+    "lon": -122.261822
+  },
+  {
+    "locname": "LECONTE SCHOOL AUDITORIUM LOBBY",
+    "address": "2241 RUSSELL ST",
+    "accessibility": "",
+    "lat": 37.857887,
+    "lon": -122.262321
+  },
+  {
+    "locname": "SEVENTH DAY ADVENTIST CH BASEMENT",
+    "address": "2236 PARKER ST",
+    "accessibility": "",
+    "lat": 37.86241,
+    "lon": -122.263295
+  },
+  {
+    "locname": "UC RESIDENCE HALL UNIT III BLDG SIDE B",
+    "address": "2400 DURANT AVE BE PRIESTLEY HALL",
+    "accessibility": "",
+    "lat": 37.867206,
+    "lon": -122.260357
+  },
+  {
+    "locname": "GARAGE",
+    "address": "618 SANTA BARBARA RD",
+    "accessibility": "",
+    "lat": 37.899285,
+    "lon": -122.273597
+  },
+  {
+    "locname": "NORTHBRAE COMMUNITY CH HAVER HALL",
+    "address": "941 THE ALAMEDA",
+    "accessibility": "",
+    "lat": 37.890557,
+    "lon": -122.276311
+  },
+  {
+    "locname": "THOUSAND OAKS BAPTIST CH MORGAN HALL",
+    "address": "1821 CATALINA AVE",
+    "accessibility": "",
+    "lat": 37.892559,
+    "lon": -122.279586
+  },
+  {
+    "locname": "NORTH BERKELEY BRANCH LIBRARY",
+    "address": "1170 THE ALAMEDA",
+    "accessibility": "",
+    "lat": 37.88548,
+    "lon": -122.275411
+  },
+  {
+    "locname": "BERKELEY FIRE STATION 4",
+    "address": "1900 MARIN AVE",
+    "accessibility": "",
+    "lat": 37.888711,
+    "lon": -122.276155
+  },
+  {
+    "locname": "ST MARY MAGDALEN CH NORTON HALL",
+    "address": "2005 BERRYMAN ST",
+    "accessibility": "",
+    "lat": 37.8839,
+    "lon": -122.271794
+  },
+  {
+    "locname": "LIVE OAK COMM CENTER FIRESIDE RM",
+    "address": "1301 SHATTUCK AVE",
+    "accessibility": "",
+    "lat": 37.883849,
+    "lon": -122.269095
+  },
+  {
+    "locname": "BERKELEY FRIENDS MEETING CH COMM RM",
+    "address": "2151 VINE ST",
+    "accessibility": "",
+    "lat": 37.880625,
+    "lon": -122.267905
+  },
+  {
+    "locname": "BERKELEY FIRE STATION 2 APP BAY",
+    "address": "2029 BERKELEY WAY",
+    "accessibility": "",
+    "lat": 37.873212,
+    "lon": -122.269343
+  },
+  {
+    "locname": "CHRIST CH EAST BAY SANCTUARY",
+    "address": "2138 CEDAR ST",
+    "accessibility": "",
+    "lat": 37.878487,
+    "lon": -122.267471
+  },
+  {
+    "locname": "BERKELEY COVENANT CHURCH FOYER",
+    "address": "1632 HOPKINS ST",
+    "accessibility": "",
+    "lat": 37.882482,
+    "lon": -122.279907
+  },
+  {
+    "locname": "M L K MIDDLE SCH STAFF LOUNGE",
+    "address": "1781 ROSE ST",
+    "accessibility": "",
+    "lat": 37.881584,
+    "lon": -122.276955
+  },
+  {
+    "locname": "BERKELEY FRIENDS MEETING CH CHAPEL",
+    "address": "1600 SACRAMENTO ST",
+    "accessibility": "",
+    "lat": 37.876484,
+    "lon": -122.282884
+  },
+  {
+    "locname": "LUTHERAN CH OF THE CROSS FELLOWSHIP HALL",
+    "address": "1744 UNIVERSITY AVE",
+    "accessibility": "TRUE",
+    "lat": 37.870935,
+    "lon": -122.276462
+  },
+  {
+    "locname": "BERKELEY VETERANS BLDG LOBBY",
+    "address": "1931 CENTER ST",
+    "accessibility": "",
+    "lat": 37.870186,
+    "lon": -122.271858
+  },
+  {
+    "locname": "CITY OF BERKELEY OLD CITY HALL",
+    "address": "2134 MARTIN LUTHER KING JR WAY",
+    "accessibility": "",
+    "lat": 37.869286,
+    "lon": -122.273173
+  },
+  {
+    "locname": "CONGREGATION BETH ISRAEL",
+    "address": "1630 BANCROFT WAY",
+    "accessibility": "",
+    "lat": 37.866213,
+    "lon": -122.277975
+  },
+  {
+    "locname": "THE BRIDGE CHURCH FOYER",
+    "address": "2414 MLK JR. WAY",
+    "accessibility": "TRUE",
+    "lat": 37.864545,
+    "lon": -122.272697
+  },
+  {
+    "locname": "STUART PRATT MANOR",
+    "address": "2020 DURANT AVE",
+    "accessibility": "",
+    "lat": 37.866232,
+    "lon": -122.269297
+  },
+  {
+    "locname": "LONGFELLOW SCH GYM",
+    "address": "1500 DERBY ST",
+    "accessibility": "",
+    "lat": 37.85866,
+    "lon": -122.278316
+  },
+  {
+    "locname": "MC GEE AVE BAPTIST CH ENTER REAR",
+    "address": "1640 STUART ST",
+    "accessibility": "",
+    "lat": 37.857186,
+    "lon": -122.275591
+  },
+  {
+    "locname": "M L KING JR YOUTH SERVICES CTR",
+    "address": "1730 OREGON ST",
+    "accessibility": "",
+    "lat": 37.856555,
+    "lon": -122.273549
+  },
+  {
+    "locname": "HARRIET TUBMAN TER COMMUNITY RM",
+    "address": "2870 ADELINE ST",
+    "accessibility": "",
+    "lat": 37.85692,
+    "lon": -122.268683
+  },
+  {
+    "locname": "BLACK REPERTORY GROUP HALL",
+    "address": "3201 ADELINE ST",
+    "accessibility": "",
+    "lat": 37.850566,
+    "lon": -122.270279
+  },
+  {
+    "locname": "TAREA HALL PITTMAN SOUTH BRANCH LIBRARY",
+    "address": "1901 RUSSELL ST",
+    "accessibility": "",
+    "lat": 37.856388,
+    "lon": -122.271067
+  },
+  {
+    "locname": "CHURCH BY THE SIDE OF THE ROAD",
+    "address": "2108 RUSSELL ST",
+    "accessibility": "",
+    "lat": 37.856692,
+    "lon": -122.265965
+  },
+  {
+    "locname": "MALCOLM X SCH AUDITORIUM",
+    "address": "1731 PRINCE ST",
+    "accessibility": "",
+    "lat": 37.852571,
+    "lon": -122.273543
+  },
+  {
+    "locname": "MABLE HOWARD APARTMENTS COMM RM",
+    "address": "1499 ALCATRAZ AVE",
+    "accessibility": "",
+    "lat": 37.848101,
+    "lon": -122.27816
+  },
+  {
+    "locname": "OLLIE GROVE CHURCH DINING HALL",
+    "address": "2800 MABEL ST",
+    "accessibility": "",
+    "lat": 37.855051,
+    "lon": -122.284906
+  },
+  {
+    "locname": "OREGON PARK APTS CLUBHOUSE",
+    "address": "1425 OREGON ST",
+    "accessibility": "",
+    "lat": 37.856831,
+    "lon": -122.280542
+  },
+  {
+    "locname": "PROGRESSIVE BAPTIST CH",
+    "address": "3301 KING ST",
+    "accessibility": "TRUE",
+    "lat": 37.848316,
+    "lon": -122.273173
+  },
+  {
+    "locname": "FRANCES ALBRIER COMM CTR ART RM",
+    "address": "2800 PARK ST",
+    "accessibility": "",
+    "lat": 37.85524,
+    "lon": -122.283319
+  },
+  {
+    "locname": "BERKELEY CORP YARD GREEN RM",
+    "address": "1326 ALLSTON WAY",
+    "accessibility": "TRUE",
+    "lat": 37.866053,
+    "lon": -122.285329
+  },
+  {
+    "locname": "BERKELEY PUBLIC LIBRARY",
+    "address": "1125 UNIVERSITY AVE",
+    "accessibility": "",
+    "lat": 37.869601,
+    "lon": -122.290888
+  },
+  {
+    "locname": "BERKELEY ADULT SCHOOL AUDITORIUM",
+    "address": "1701 SAN PABLO AVE",
+    "accessibility": "TRUE",
+    "lat": 37.873212,
+    "lon": -122.291577
+  },
+  {
+    "locname": "BERKELEY FRIENDS CH LOBBY",
+    "address": "1600 SACRAMENTO ST",
+    "accessibility": "TRUE",
+    "lat": 37.876484,
+    "lon": -122.282888
+  },
+  {
+    "locname": "ST AMBROSE CHURCH RYAN HALL",
+    "address": "1145 GILMAN ST",
+    "accessibility": "",
+    "lat": 37.881214,
+    "lon": -122.293676
+  },
+  {
+    "locname": "EVANGEL BIBLE CHURCH OF BERKELEY",
+    "address": "1343 HOPKINS ST",
+    "accessibility": "",
+    "lat": 37.879261,
+    "lon": -122.286988
+  },
+  {
+    "locname": "BERKELEY FIRE STATION 6",
+    "address": "999 CEDAR ST",
+    "accessibility": "",
+    "lat": 37.874976,
+    "lon": -122.296775
+  },
+  {
+    "locname": "CENTER FOR YOGA & SPIRITUAL HEALING",
+    "address": "830 BANCROFT WAY",
+    "accessibility": "",
+    "lat": 37.863474,
+    "lon": -122.296043
+  },
+  {
+    "locname": "LIBERTY HILL BAPTIST CHURCH",
+    "address": "997 UNIVERSITY AVE",
+    "accessibility": "",
+    "lat": 37.868944,
+    "lon": -122.294741
+  },
+  {
+    "locname": "ROSA PARKS SCH MULTI-USE RM",
+    "address": "920 ALLSTON WAY",
+    "accessibility": "",
+    "lat": 37.865424,
+    "lon": -122.294621
+  },
+  {
+    "locname": "ST CLEMENTS CHURCH PALACHE HALL",
+    "address": "2837 CLAREMONT BLVD",
+    "accessibility": "",
+    "lat": 37.859308,
+    "lon": -122.244892
+  }
+]

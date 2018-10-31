@@ -1,0 +1,59 @@
+@import 'bootstrap';
+
+@import 'breakpoints';
+@import 'mixins';
+@import 'colors/base';
+@import 'colors/diverging';
+@import 'colors/qualitative';
+@import 'colors/sequential';
+@import 'fonts';
+@import 'icons';
+
+@import 'elements';
+@import 'refer';
+@import 'navigation';
+@import 'header';
+@import 'footer';
+@import 'photos';
+@import 'buttons';
+@import 'ads';
+@import 'comments';
+@import 'share';
+@import 'credits';
+@import 'graphics';
+
+#map {
+	margin: 0 auto;
+    height: 600px;
+    max-width: 900px;
+    padding: 20px;
+}
+
+button {
+	display: inline-block;
+	outline: none;
+	font-size: large;
+	font-weight: 800;
+	margin-bottom: 20px;
+	color: #4774CC;
+	background: none;
+
+	&:hover {
+		opacity: 0.5;
+	}
+}
+
+#northside, #southside, #downtown {
+	border-left: none;
+	border-top: none;
+	border-bottom: none;
+}
+
+#campus {
+	border: none;
+}
+
+#button-container {
+	text-align: center;
+}
+

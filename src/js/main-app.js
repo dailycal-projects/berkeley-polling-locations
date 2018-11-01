@@ -66,8 +66,8 @@ for (var i = 0; i < pollLocations.length; i++) {
         fillOpacity: 0.5,
         radius: 15
     }).addTo(map);
-
-    circle.bindPopup(poll.locname);
+    var hover = "<strong>" + poll.locname + "</strong><br>" + poll.address;
+    circle.bindPopup(hover);
     circle.on('mouseover', function (e) {
         this.openPopup();
     });
